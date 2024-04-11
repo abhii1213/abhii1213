@@ -8,10 +8,10 @@
 <br>
 <br>
 
-- I am Abhishek Kumar, a Developer and tech enthusiast. <br>
+- I am **Abhishek Kumar**, a Developer and tech enthusiast. <br>
 - Always open to collaborating on open-source projects. <br>
 - Learning never stops! 🚀
-- 👨‍💻 Check out my personal portfolio: *[Portfolio]*(https://portfolio-website-abhi123.netlify.app/)
+- **👨‍💻 Check out my personal portfolio: [Portfolio](https://portfolio-website-abhi123.netlify.app/)**
 
 <h2 align="left">Connect with me:</h2>
 <div align="center">
