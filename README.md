@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Full+Stack+Developerr+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Full+Stack+Developer+SQL Developer%3A)" /> </h3>
 
 <br>
 <img align="right" alt="coding" width="400" height="250" width="150" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
