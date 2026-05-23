@@ -78,15 +78,11 @@
 
 <hr>
 
+<h4>
+I'm always open to discussing layered data warehouse designs, automated ingestion pipes, or collaborating on open-source streaming projects. Drop me a line at **abhi.kr.0625@gmail.com**! </h4>
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=abhii1213&show_icons=true&theme=dark&locale=en&hide_border=true&bg_color=0D1117" alt="abhii1213" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhii1213&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="abhii1213" /></td>
-    </tr>
-  </table>
   <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhii1213&theme=dark&hide_border=true&background=0D1117" alt="abhii1213" />
 </div>
