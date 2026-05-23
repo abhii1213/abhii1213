@@ -1,69 +1,52 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Full+Stack+Developer+/+SQL+Developer%3A)" /> </h3>
+# [cite_start]Hi there, I'm Abhishek Kumar 👋 [cite: 1]
+### Data Engineer | Cloud Data Warehousing | [cite_start]Streaming Architectures 
 
-<br>
-<img align="right" alt="coding" width="400" height="250" width="150" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
-<br>
-<br>
-<br>
-<br>
+[cite_start]I'm a Data Engineer based in Bangalore, Karnataka [cite: 19][cite_start], currently building scalable data solutions at Accenture[cite: 18]. [cite_start]I specialize in designing end-to-end ETL/ELT pipelines, real-time data ingestion, and medallion architectures[cite: 7, 22]. [cite_start]I'm passionate about transforming raw, messy data into clean, business-ready analytics models[cite: 26].
 
-- I am **Abhishek Kumar**, a Developer and tech enthusiast. <br>
-- Always open to collaborating on open-source projects. <br>
-- Learning never stops! 🚀
+* [cite_start]🌍 Currently working as a Data Engineer at **Accenture**[cite: 18].
+* [cite_start]🧠 Certified **SnowPro Core** professional[cite: 38].
+* [cite_start]💻 I enjoy solving complex algorithms and have solved **400+ DSA problems**[cite: 44].
+* [cite_start]📫 Reach out to me: **abhi.kr.0625@gmail.com** [cite: 2]
 
-<h2 align="left">Connect with me:</h2>
-<div align="center">
-  <a  href="www.linkedin.com/in/abhishek-kumar-1409bb211/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/Abhii1213" target="_blank"><img src="https://img.shields.io/badge/twitter-%314353F.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-  <a  href="https://portfolio-website-abhi123.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio%20-%230077B5.svg?&style=for-the-badge&logo=portfolio"  /></a>
-  <a href="mailto:kabhi12132002@gmail.com.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-<br>
-<br>
+---
 
-<h3 align="left">Web Tech Stack :</h3>
-<div align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white"/>
-  <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
-</div>
-<br>
-<div align="center">
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-</div>
+### 🛠️ Technical Arsenal
 
-<h3 align="left">Languages :</h3>
-<div align="center">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</div>
+**Data Warehousing & Orchestration**
+[cite_start]![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) [cite: 10]
+[cite_start]![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) [cite: 10]
+[cite_start]![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) [cite: 10]
+[cite_start]![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) [cite: 10]
 
-<h3 align="left">Databases :</h3>
-<div align="center">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div>
+**Streaming & Processing**
+[cite_start]![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) [cite: 11]
+[cite_start]![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white) [cite: 11]
 
-<br/>
+**Languages & Libraries**
+[cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [cite: 9]
+[cite_start]![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white) [cite: 9]
+[cite_start]![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) [cite: 20]
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=abhii1213&show_icons=true&theme=dark&locale=en" alt="abhii1213" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhii1213&show_icons=true&theme=dark&locale=en&layout=compact" alt="abhii1213" /></td>
-  </tr>
-</table>
+---
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhii1213&theme=dark" alt="abhii1213" /></p>
-</div>
+### 🚀 Featured Data Projects
+
+#### [cite_start]🛒 Forever Retail - Data Engineering Pipeline [cite: 30]
+* [cite_start]**Tech Stack:** Snowflake, dbt, AWS S3, Tasks/Pipes, SQL [cite: 30]
+* [cite_start]Built a production-grade retail data pipeline automatically ingesting CSV files from AWS S3 into Snowflake using tasks and pipes[cite: 31]. 
+* [cite_start]Developed RAW → STAGING → MART models in dbt using incremental loading and SCD Type 2 dimensions for historical tracking[cite: 32].
+
+#### [cite_start]📰 Real-Time News Analytics Pipeline [cite: 34]
+* [cite_start]**Tech Stack:** Apache Kafka, Snowflake, dbt, AWS S3, Streamlit [cite: 34]
+* [cite_start]Architected an end-to-end streaming pipeline to ingest live news data via Kafka and store raw JSON in Snowflake[cite: 35].
+* [cite_start]Built a strict Medallion architecture (Bronze ➔ Silver ➔ Gold) with data quality tests to feed a dynamic Streamlit dashboard[cite: 36, 37].
+
+---
+
+### 🏆 Certifications
+* [cite_start]**Snowflake:** SnowPro Core Certification [cite: 38, 39]
+* [cite_start]**Anthropic:** Claude Certified Architect Foundations [cite: 42]
+* [cite_start]**Udemy:** Artificial Intelligence and Machine Learning from Scratch [cite: 43]
+
+---
+⭐️ *Feel free to explore my repositories below to see my pipeline architectures in action!*
